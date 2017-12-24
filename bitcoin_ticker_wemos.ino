@@ -1,4 +1,4 @@
-/*  by Davide Caminati 2017
+/*  original idea https://www.reboot.ms/forum/resources/arduino-bitcoin-ticker.565/
  *  Configurazione per IDE Arduino
  *  Cheda Wemos D1 R2 & mini
  *  CPU 80Mhz
